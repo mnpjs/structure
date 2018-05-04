@@ -3,11 +3,6 @@
   "version": "1.0.0",
   "description": "A structure for mnp.",
   "scripts": {
-    "test": "zoroaster test/spec",
-    "test-watch": "zoroaster test/spec --watch",
-    "prepublishOnly": "node scripts/prepublishOnly",
-    "postinstall": "node scripts/postinstall",
-    "postpublish": "node scripts/postpublish"
   },
   "repository": {
     "type": "git",

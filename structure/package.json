@@ -2,6 +2,7 @@
   "name": "mnp-structure",
   "version": "1.0.0",
   "description": "A structure for mnp.",
+  "main": ".",
   "scripts": {
     "test": "zoroaster test/spec",
     "test-watch": "zoroaster test/spec --watch",
