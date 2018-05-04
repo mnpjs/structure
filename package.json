@@ -1,0 +1,27 @@
+{
+  "name": "mnp-structure",
+  "version": "1.0.0",
+  "description": "A structure for mnp.",
+  "scripts": {
+    "test": "zoroaster test/spec",
+    "test-watch": "zoroaster test/spec --watch",
+    "prepublishOnly": "node scripts/prepublishOnly",
+    "postinstall": "node scripts/postinstall",
+    "postpublish": "node scripts/postpublish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artdecocode/mnp-structure.git"
+  },
+  "keywords": ["mnp"],
+  "author": "Anton <anton@adc.sh>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artdecocode/mnp-structure/issues"
+  },
+  "homepage": "https://github.com/artdecocode/mnp-structure#readme",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
