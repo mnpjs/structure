@@ -1,5 +1,5 @@
 {
-  "name": "mnp-structure",
+  "name": "@mnpjs/structure",
   "version": "1.0.0",
   "description": "A structure for mnp.",
   "main": ".",
@@ -14,7 +14,9 @@
     "type": "git",
     "url": "git+https://github.com/artdecocode/mnp-structure.git"
   },
-  "keywords": ["mnp"],
+  "keywords": [
+    "mnp"
+  ],
   "author": "Anton <anton@adc.sh>",
   "license": "MIT",
   "bugs": {
@@ -22,7 +24,7 @@
   },
   "homepage": "https://github.com/artdecocode/mnp-structure#readme",
   "devDependencies": {
+    "eslint-config-artdeco": "1.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }

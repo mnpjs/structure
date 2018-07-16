@@ -16,6 +16,8 @@
     "url": "https://github.com/mnpjs/structure/issues"
   },
   "homepage": "https://github.com/mnpjs/structure#readme",
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint-config-artdeco": "1.0.0"
+  },
   "dependencies": {}
 }
