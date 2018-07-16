@@ -1,20 +1,20 @@
 {
-  "name": "mnp-structure",
+  "name": "@mnpjs/structure",
   "version": "1.0.0",
-  "description": "A structure for mnp.",
+  "description": "A structure for mnp to create new structures.",
   "scripts": {
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/artdecocode/mnp-structure.git"
+    "url": "git+https://github.com/mnpjs/structure.git"
   },
   "keywords": ["mnp"],
   "author": "Anton <anton@adc.sh>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/artdecocode/mnp-structure/issues"
+    "url": "https://github.com/mnpjs/structure/issues"
   },
-  "homepage": "https://github.com/artdecocode/mnp-structure#readme",
+  "homepage": "https://github.com/mnpjs/structure#readme",
   "devDependencies": {
   },
   "dependencies": {
