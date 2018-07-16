@@ -1,22 +1,21 @@
 {
   "name": "@mnpjs/structure",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A structure for mnp to create new structures.",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mnpjs/structure.git"
   },
-  "keywords": ["mnp"],
+  "keywords": [
+    "mnp"
+  ],
   "author": "Anton <anton@adc.sh>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mnpjs/structure/issues"
   },
   "homepage": "https://github.com/mnpjs/structure#readme",
-  "devDependencies": {
-  },
-  "dependencies": {
-  }
+  "devDependencies": {},
+  "dependencies": {}
 }
