@@ -1,5 +1,9 @@
 ## 17 July 2018
 
+### 1.1.1
+
+- [structure] Update actual structure for `mnp@0.10`.
+
 ### 1.1.0
 
 - [package] Update organisation name in readme, add `.eslintignore`
