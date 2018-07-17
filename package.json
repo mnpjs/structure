@@ -10,6 +10,14 @@
   "keywords": [
     "mnp"
   ],
+  "mnp": {
+    "onCreate": "scripts/mkdir.js"
+  },
+  "files": [
+    "index.js",
+    "structure",
+    "scripts"
+  ],
   "author": "Anton <anton@adc.sh>",
   "license": "MIT",
   "bugs": {
