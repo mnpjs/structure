@@ -2,7 +2,7 @@
 
 {{ description }}
 
-[Read more about `mnp`][2]
+[Read more about `mnp`][2].
 
 ---
 
